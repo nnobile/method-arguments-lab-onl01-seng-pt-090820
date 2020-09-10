@@ -1,3 +1,3 @@
 def interpolation(name)
-  puts "Nick"
+  puts "Hi my name is #{name}"
 end
